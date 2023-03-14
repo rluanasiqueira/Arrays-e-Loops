@@ -25,3 +25,4 @@ console.log(ultimo);
 
 // imprima o segundo pais na tela
 console.log(nomeDePaises[1])
+
